@@ -5,3 +5,4 @@ changes added on branch feature1
 changes added on branch feature1 2
 changes added on feature-1 3
 changes added on feature-1 4
+changes on master branch
